@@ -1,11 +1,19 @@
 {
   "name": "proc-cpuinfo",
   "version": "1.0.0",
-  "description": "",
+  "description": "Get /proc/cpuinfo as an object",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "David Mark Clements",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidmarkclements/proc-cpuinfo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/davidmarkclements/proc-cpuinfo/issues"
+  },
+  "homepage": "https://github.com/davidmarkclements/proc-cpuinfo#readme"
 }
